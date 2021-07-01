@@ -1,4 +1,4 @@
-# I.am
+
 <h1 align="center">Hi!👋 I am Miguel</h1>
 <h3 align="center">A programming student 👨‍💻</h3>
 
@@ -6,7 +6,7 @@
 
 - I am currently learning **VueJS, NodeJS and Laravel** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20">
 
-- All my projects are available at [🚀](#)
+- You can visit my website for more information [🚀🌐](https://miportafoliomike.netlify.app/)
 
 - You can contact me by mail [📧](mikealesso768gmail.com)
 
