@@ -6,6 +6,8 @@
 
 - I am currently learning **VueJS, NodeJS and Laravel** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20">
 
+<img src="img/waifu.gif" align="right" width="250" height="180" />
+
 - You can visit my website for more information [🚀🌐](https://miportafoliomike.netlify.app/)
 
 - You can contact me by mail [📧](mikealesso768gmail.com)
